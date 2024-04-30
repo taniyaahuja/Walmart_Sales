@@ -13,6 +13,6 @@ The dataset used for this analysis is uploaded as an Excel File. It contains det
 - seaborn
 
 ## Files
-- `walmart_sales.xlsm`: The raw dataset used for analysis.
-- `Walmart_Sales.py`: Contains the Python code for the analysis.
+- `walmart sales.xlsx`: The raw dataset used for analysis.
+- `main.py`: Contains the Python code for the analysis.
 - `README.md`: This documentation providing an overview of the project.
